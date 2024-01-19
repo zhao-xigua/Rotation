@@ -1,0 +1,21 @@
+python compute_vector_to_wanted_vector_angle.py fit_2a_2b_matrix_axis_and_angle.txt rotation_4_5_axis.txt
+ori axis:
+(0.28780117, -0.92539014, -0.24662435)
+goal axis:
+(0.50193377, 0.53419151, 0.68022196)
+two vector's angle:
+121.173930055
+goal axis's angle:
+-2.79906166004
+
+
+python compute_vector_and_goal_coord_angle.py fit_2a_2b_matrix_axis_and_angle.txt rolling_h44_axis.txt
+ori axis:
+(0.28780117, -0.92539014, -0.24662435)
+goal axis:
+(0.6756162217395816, -0.7367579612635256, 0.02702642109391726)
+two vector's angle:
+29.5917182758
+goal axis's angle:
+4.70207176648
+
